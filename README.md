@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug in HTML related to the use of innerHTML. The bug arises from providing an incorrectly formatted HTML string to the innerHTML property, resulting in rendering errors. The solution shows how to properly construct and use innerHTML to avoid the issue.
